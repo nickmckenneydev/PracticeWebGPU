@@ -1,4 +1,0 @@
-C:/Users/Nick/Desktop/dev/webgpu/LearnWebGPU-Code/build/CMakeFiles/App.dir
-C:/Users/Nick/Desktop/dev/webgpu/LearnWebGPU-Code/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/Nick/Desktop/dev/webgpu/LearnWebGPU-Code/build/CMakeFiles/ZERO_CHECK.dir
-C:/Users/Nick/Desktop/dev/webgpu/LearnWebGPU-Code/build/webgpu/CMakeFiles/ALL_BUILD.dir

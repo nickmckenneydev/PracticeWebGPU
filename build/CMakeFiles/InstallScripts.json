@@ -1,9 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"C:/Users/Nick/Desktop/dev/webgpu/LearnWebGPU-Code/build/cmake_install.cmake",
-		"C:/Users/Nick/Desktop/dev/webgpu/LearnWebGPU-Code/build/webgpu/cmake_install.cmake",
-		"C:/Users/Nick/Desktop/dev/webgpu/LearnWebGPU-Code/build/webgpu/dawn/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
