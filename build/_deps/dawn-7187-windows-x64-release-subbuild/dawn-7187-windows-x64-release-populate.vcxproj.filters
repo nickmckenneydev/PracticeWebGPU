@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Nick\Desktop\dev\webgpu\build\_deps\dawn-7187-windows-x64-release-subbuild\CMakeFiles\b754ea4df34f1a467ac555076e7ba638\dawn-7187-windows-x64-release-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Nick\Desktop\dev\webgpu\build\_deps\dawn-7187-windows-x64-release-subbuild\CMakeFiles\b754ea4df34f1a467ac555076e7ba638\dawn-7187-windows-x64-release-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Nick\Desktop\dev\webgpu\build\_deps\dawn-7187-windows-x64-release-subbuild\CMakeFiles\b754ea4df34f1a467ac555076e7ba638\dawn-7187-windows-x64-release-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Nick\Desktop\dev\webgpu\build\_deps\dawn-7187-windows-x64-release-subbuild\CMakeFiles\b754ea4df34f1a467ac555076e7ba638\dawn-7187-windows-x64-release-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Nick\Desktop\dev\webgpu\build\_deps\dawn-7187-windows-x64-release-subbuild\CMakeFiles\b754ea4df34f1a467ac555076e7ba638\dawn-7187-windows-x64-release-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Nick\Desktop\dev\webgpu\build\_deps\dawn-7187-windows-x64-release-subbuild\CMakeFiles\b754ea4df34f1a467ac555076e7ba638\dawn-7187-windows-x64-release-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Nick\Desktop\dev\webgpu\build\_deps\dawn-7187-windows-x64-release-subbuild\CMakeFiles\b754ea4df34f1a467ac555076e7ba638\dawn-7187-windows-x64-release-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Nick\Desktop\dev\webgpu\build\_deps\dawn-7187-windows-x64-release-subbuild\CMakeFiles\b754ea4df34f1a467ac555076e7ba638\dawn-7187-windows-x64-release-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Nick\Desktop\dev\webgpu\build\_deps\dawn-7187-windows-x64-release-subbuild\CMakeFiles\3d5abbfe59acbb5fd36ea5c44181ab55\dawn-7187-windows-x64-release-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Nick\Desktop\dev\webgpu\build\_deps\dawn-7187-windows-x64-release-subbuild\CMakeFiles\05f9681462f012d2e9a37a70237e9bb7\dawn-7187-windows-x64-release-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Nick\Desktop\dev\webgpu\build\_deps\dawn-7187-windows-x64-release-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Nick\Desktop\dev\webgpu\build\_deps\dawn-7187-windows-x64-release-subbuild\CMakeFiles\dawn-7187-windows-x64-release-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{8832806D-77E0-348D-9532-60FE2F0BD39A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

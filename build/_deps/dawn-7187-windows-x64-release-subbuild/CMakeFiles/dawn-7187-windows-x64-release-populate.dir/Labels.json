@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/Nick/Desktop/dev/webgpu/build/_deps/dawn-7187-windows-x64-release-subbuild/CMakeFiles/dawn-7187-windows-x64-release-populate"
+		},
+		{
+			"file" : "C:/Users/Nick/Desktop/dev/webgpu/build/_deps/dawn-7187-windows-x64-release-subbuild/CMakeFiles/05f9681462f012d2e9a37a70237e9bb7/dawn-7187-windows-x64-release-populate.rule"
+		},
+		{
+			"file" : "C:/Users/Nick/Desktop/dev/webgpu/build/_deps/dawn-7187-windows-x64-release-subbuild/CMakeFiles/3d5abbfe59acbb5fd36ea5c44181ab55/dawn-7187-windows-x64-release-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/Nick/Desktop/dev/webgpu/build/_deps/dawn-7187-windows-x64-release-subbuild/CMakeFiles/b754ea4df34f1a467ac555076e7ba638/dawn-7187-windows-x64-release-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/Nick/Desktop/dev/webgpu/build/_deps/dawn-7187-windows-x64-release-subbuild/CMakeFiles/b754ea4df34f1a467ac555076e7ba638/dawn-7187-windows-x64-release-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Nick/Desktop/dev/webgpu/build/_deps/dawn-7187-windows-x64-release-subbuild/CMakeFiles/b754ea4df34f1a467ac555076e7ba638/dawn-7187-windows-x64-release-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/Nick/Desktop/dev/webgpu/build/_deps/dawn-7187-windows-x64-release-subbuild/CMakeFiles/b754ea4df34f1a467ac555076e7ba638/dawn-7187-windows-x64-release-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/Nick/Desktop/dev/webgpu/build/_deps/dawn-7187-windows-x64-release-subbuild/CMakeFiles/b754ea4df34f1a467ac555076e7ba638/dawn-7187-windows-x64-release-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/Nick/Desktop/dev/webgpu/build/_deps/dawn-7187-windows-x64-release-subbuild/CMakeFiles/b754ea4df34f1a467ac555076e7ba638/dawn-7187-windows-x64-release-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/Nick/Desktop/dev/webgpu/build/_deps/dawn-7187-windows-x64-release-subbuild/CMakeFiles/b754ea4df34f1a467ac555076e7ba638/dawn-7187-windows-x64-release-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/Nick/Desktop/dev/webgpu/build/_deps/dawn-7187-windows-x64-release-subbuild/CMakeFiles/b754ea4df34f1a467ac555076e7ba638/dawn-7187-windows-x64-release-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"dawn-7187-windows-x64-release-populate"
+		],
+		"name" : "dawn-7187-windows-x64-release-populate"
+	}
+}

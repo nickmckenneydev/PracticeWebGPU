@@ -1,0 +1,4 @@
+C:/Users/Nick/Desktop/dev/webgpu/build/CMakeFiles/App.dir
+C:/Users/Nick/Desktop/dev/webgpu/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Nick/Desktop/dev/webgpu/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Nick/Desktop/dev/webgpu/build/webgpu/CMakeFiles/ALL_BUILD.dir

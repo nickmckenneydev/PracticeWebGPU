@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Nick\Desktop\dev\webgpu\build\_deps\dawn-7187-windows-x64-release-subbuild\CMakeFiles\05f9681462f012d2e9a37a70237e9bb7\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{8832806D-77E0-348D-9532-60FE2F0BD39A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

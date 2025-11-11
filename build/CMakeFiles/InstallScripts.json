@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/Nick/Desktop/dev/webgpu/build/cmake_install.cmake",
+		"C:/Users/Nick/Desktop/dev/webgpu/build/webgpu/cmake_install.cmake",
+		"C:/Users/Nick/Desktop/dev/webgpu/build/webgpu/dawn/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
