@@ -122,6 +122,16 @@ void inspectAdapter(WGPUAdapter adapter) {
 	wgpuAdapterInfoFreeMembers(properties);
 }
 
+WGPUDevice requestDeviceSync(WGPUAdapter adapter, WGPUDeviceDescriptor const* descriptor)
+{
+	struct UserData
+	{
+		WGPUDevice device= nullptr;
+		bool requestEnded = false;
+	};
+	UserData UserData;
+}
+
 int main() {
 	// Create all WebGPU object we use throughout the program
 	// We create a descriptor
