@@ -8,7 +8,10 @@
 #include <vector>
 #include <cassert>
 
-WGPUAdapter requestAdapterSync(WGPUInstance instance, WGPURequestAdapterOptions const * options) {}	
+WGPUAdapter requestAdapterSync(WGPUInstance instance, WGPURequestAdapterOptions const* options)
+{
+    
+}	
 
 void inspectAdapter(WGPUAdapter adapter){}
 
