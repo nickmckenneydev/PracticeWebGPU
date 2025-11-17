@@ -76,6 +76,7 @@ WGPUAdapter requestAdapterSync(WGPUInstance instance, WGPURequestAdapterOptions 
 
 	return userData.adapter;
 }
+
 void inspectAdapter(WGPUAdapter adapter) {
 	WGPULimits supportedLimits = {};
 	supportedLimits.nextInChain = nullptr;
@@ -122,15 +123,8 @@ void inspectAdapter(WGPUAdapter adapter) {
 	wgpuAdapterInfoFreeMembers(properties);
 }
 
-WGPUDevice requestDeviceSync(WGPUAdapter adapter, WGPUDeviceDescriptor const* descriptor)
-{
-	struct UserData
-	{
-		WGPUDevice device= nullptr;
-		bool requestEnded = false;
-	};
-	UserData UserData;
-}
+
+   
 
 int main() {
 	// Create all WebGPU object we use throughout the program
